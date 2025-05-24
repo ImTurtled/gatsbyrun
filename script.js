@@ -19,7 +19,7 @@ let greenlightbg;
 let watcherbg;
 let nickbg;
 let girlsSpawned = 0; // NEW: Track how many girls have been spawned
-const maxGirls = 5; // NEW: Maximum number of girls to spawn
+const maxGirls = 50; // NEW: Maximum number of girls to spawn
 let talkingbg;
 let flowersbg;
 let mebg;
