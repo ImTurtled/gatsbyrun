@@ -1,4 +1,4 @@
-# Game Jam Starter Code
+# Game Jam Starter Code 
 This is a place for you to start building your Game Jam Project!
 
 ### Project Requirements
